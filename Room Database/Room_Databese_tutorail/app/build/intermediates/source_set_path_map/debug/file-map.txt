@@ -1,0 +1,69 @@
+com.ahmedapps.roomdatabase.app-core-viewtree-1.0.0-0 C:\Users\MAH\.gradle\caches\transforms-3\01fa763b6d422e2a4d394bf9651eaa26\transformed\core-viewtree-1.0.0\res
+com.ahmedapps.roomdatabase.app-ui-graphics-release-1 C:\Users\MAH\.gradle\caches\transforms-3\03cb9ae540ac532505939f3a9f9297be\transformed\ui-graphics-release\res
+com.ahmedapps.roomdatabase.app-lifecycle-livedata-core-2.8.7-2 C:\Users\MAH\.gradle\caches\transforms-3\08aa9c5cfed48a142c80eea2ccac6845\transformed\lifecycle-livedata-core-2.8.7\res
+com.ahmedapps.roomdatabase.app-ui-util-release-3 C:\Users\MAH\.gradle\caches\transforms-3\0d6f840f001e16642a0de9bed191d886\transformed\ui-util-release\res
+com.ahmedapps.roomdatabase.app-foundation-layout-release-4 C:\Users\MAH\.gradle\caches\transforms-3\1179d6ef1835078f5cd0614bf9b69675\transformed\foundation-layout-release\res
+com.ahmedapps.roomdatabase.app-material-ripple-release-5 C:\Users\MAH\.gradle\caches\transforms-3\234740fae178e342f13f903015488a5d\transformed\material-ripple-release\res
+com.ahmedapps.roomdatabase.app-lifecycle-viewmodel-compose-release-6 C:\Users\MAH\.gradle\caches\transforms-3\270a02c5fcb426cc4d148c9425c625be\transformed\lifecycle-viewmodel-compose-release\res
+com.ahmedapps.roomdatabase.app-runtime-saveable-release-7 C:\Users\MAH\.gradle\caches\transforms-3\281e3442823b592b38294642472b3452\transformed\runtime-saveable-release\res
+com.ahmedapps.roomdatabase.app-emoji2-1.3.0-8 C:\Users\MAH\.gradle\caches\transforms-3\2d7c32880624aba5005740566b648de6\transformed\emoji2-1.3.0\res
+com.ahmedapps.roomdatabase.app-ui-test-manifest-1.6.0-9 C:\Users\MAH\.gradle\caches\transforms-3\2fa982b82d5439256b9189e4f94a9346\transformed\ui-test-manifest-1.6.0\res
+com.ahmedapps.roomdatabase.app-startup-runtime-1.1.1-10 C:\Users\MAH\.gradle\caches\transforms-3\30f7132a4fdbd05d9cba81dad841ea1e\transformed\startup-runtime-1.1.1\res
+com.ahmedapps.roomdatabase.app-runtime-release-11 C:\Users\MAH\.gradle\caches\transforms-3\3b3880ae78275a17ab326288ce301b72\transformed\runtime-release\res
+com.ahmedapps.roomdatabase.app-play-services-base-18.0.1-12 C:\Users\MAH\.gradle\caches\transforms-3\3d42feff5271827dc9ecef3708c24ec4\transformed\play-services-base-18.0.1\res
+com.ahmedapps.roomdatabase.app-navigation-compose-2.7.5-13 C:\Users\MAH\.gradle\caches\transforms-3\3f1a9886eaebce5ec2fbc0a2b2a79c20\transformed\navigation-compose-2.7.5\res
+com.ahmedapps.roomdatabase.app-firebase-common-20.4.2-14 C:\Users\MAH\.gradle\caches\transforms-3\42e27fd3b875615ff463a19166384437\transformed\firebase-common-20.4.2\res
+com.ahmedapps.roomdatabase.app-savedstate-ktx-1.2.1-15 C:\Users\MAH\.gradle\caches\transforms-3\43f5691a1c1a94278ab49e93f472cfbe\transformed\savedstate-ktx-1.2.1\res
+com.ahmedapps.roomdatabase.app-lifecycle-viewmodel-ktx-2.8.7-16 C:\Users\MAH\.gradle\caches\transforms-3\50d15a4d8e2ef9f88b0e1dde1817ee96\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.ahmedapps.roomdatabase.app-material-icons-core-release-17 C:\Users\MAH\.gradle\caches\transforms-3\51b11bcacd0aa5ccc092d75ac43ffa11\transformed\material-icons-core-release\res
+com.ahmedapps.roomdatabase.app-lifecycle-livedata-core-ktx-2.8.7-18 C:\Users\MAH\.gradle\caches\transforms-3\5639fe8ac659df60c96a2f9e76d4c803\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.ahmedapps.roomdatabase.app-lifecycle-process-2.8.7-19 C:\Users\MAH\.gradle\caches\transforms-3\56ade543c6f40c53994b627710a40d73\transformed\lifecycle-process-2.8.7\res
+com.ahmedapps.roomdatabase.app-ui-release-20 C:\Users\MAH\.gradle\caches\transforms-3\5786464e964c7b0a3a388c9668d193ca\transformed\ui-release\res
+com.ahmedapps.roomdatabase.app-lifecycle-viewmodel-release-21 C:\Users\MAH\.gradle\caches\transforms-3\5e49d81fbf0de781f37a0d99ff6fcdc0\transformed\lifecycle-viewmodel-release\res
+com.ahmedapps.roomdatabase.app-material-release-22 C:\Users\MAH\.gradle\caches\transforms-3\65830909e264762c159185f0edc87cbd\transformed\material-release\res
+com.ahmedapps.roomdatabase.app-core-runtime-2.2.0-23 C:\Users\MAH\.gradle\caches\transforms-3\670ef232976fdad74ab294954bac410e\transformed\core-runtime-2.2.0\res
+com.ahmedapps.roomdatabase.app-activity-ktx-1.10.1-24 C:\Users\MAH\.gradle\caches\transforms-3\67dfd0f1b5ea19fef229f76b2db60571\transformed\activity-ktx-1.10.1\res
+com.ahmedapps.roomdatabase.app-animation-core-release-25 C:\Users\MAH\.gradle\caches\transforms-3\6adf5ea08fd0dddc407209cf36c2b5a2\transformed\animation-core-release\res
+com.ahmedapps.roomdatabase.app-material-icons-extended-release-26 C:\Users\MAH\.gradle\caches\transforms-3\6bb096dafb879a35f23fe1936149fe7d\transformed\material-icons-extended-release\res
+com.ahmedapps.roomdatabase.app-navigation-runtime-ktx-2.7.5-27 C:\Users\MAH\.gradle\caches\transforms-3\6e35ac9906b7b1572a2f4703ab3c1670\transformed\navigation-runtime-ktx-2.7.5\res
+com.ahmedapps.roomdatabase.app-play-services-measurement-api-21.5.0-28 C:\Users\MAH\.gradle\caches\transforms-3\6e365f5a74de07fd868d1233bb783d7c\transformed\play-services-measurement-api-21.5.0\res
+com.ahmedapps.roomdatabase.app-lifecycle-viewmodel-savedstate-2.8.7-29 C:\Users\MAH\.gradle\caches\transforms-3\71b423b455c292805696c7c69ef00a88\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.ahmedapps.roomdatabase.app-ads-adservices-java-1.0.0-beta05-30 C:\Users\MAH\.gradle\caches\transforms-3\74958d92c6b364dd77b5c121be676720\transformed\ads-adservices-java-1.0.0-beta05\res
+com.ahmedapps.roomdatabase.app-play-services-basement-18.1.0-31 C:\Users\MAH\.gradle\caches\transforms-3\7866583606e065abb36b11dc3aeccfbb\transformed\play-services-basement-18.1.0\res
+com.ahmedapps.roomdatabase.app-animation-release-32 C:\Users\MAH\.gradle\caches\transforms-3\78e0aebc05ed6ac93c136145093803a8\transformed\animation-release\res
+com.ahmedapps.roomdatabase.app-activity-1.10.1-33 C:\Users\MAH\.gradle\caches\transforms-3\7a068c283873c6800b4250928b062be4\transformed\activity-1.10.1\res
+com.ahmedapps.roomdatabase.app-foundation-release-34 C:\Users\MAH\.gradle\caches\transforms-3\7c01ee8c93776e3b668144b88cff3981\transformed\foundation-release\res
+com.ahmedapps.roomdatabase.app-annotation-experimental-1.4.1-35 C:\Users\MAH\.gradle\caches\transforms-3\7c538f8c5a9f5659fff80aac5fced7a4\transformed\annotation-experimental-1.4.1\res
+com.ahmedapps.roomdatabase.app-core-1.15.0-36 C:\Users\MAH\.gradle\caches\transforms-3\7ebf1833527494c50bd99cb98a2a81ae\transformed\core-1.15.0\res
+com.ahmedapps.roomdatabase.app-activity-compose-1.10.1-37 C:\Users\MAH\.gradle\caches\transforms-3\7eca309f5c7e8f5b02f5717f3648a2cf\transformed\activity-compose-1.10.1\res
+com.ahmedapps.roomdatabase.app-savedstate-1.2.1-38 C:\Users\MAH\.gradle\caches\transforms-3\7f28fb13b0b161f71f722648b5edbd46\transformed\savedstate-1.2.1\res
+com.ahmedapps.roomdatabase.app-navigation-runtime-2.7.5-39 C:\Users\MAH\.gradle\caches\transforms-3\8389f63841c0133c38dd40832f6cf5cb\transformed\navigation-runtime-2.7.5\res
+com.ahmedapps.roomdatabase.app-material3-1.1.2-40 C:\Users\MAH\.gradle\caches\transforms-3\88e46fe2cca2a79e0fa654c7d06a1ddd\transformed\material3-1.1.2\res
+com.ahmedapps.roomdatabase.app-ui-tooling-preview-release-41 C:\Users\MAH\.gradle\caches\transforms-3\91c85ecd86c925d3652adb1036a41738\transformed\ui-tooling-preview-release\res
+com.ahmedapps.roomdatabase.app-ui-text-release-42 C:\Users\MAH\.gradle\caches\transforms-3\921314b36ca556938bc440a2e1dbed6d\transformed\ui-text-release\res
+com.ahmedapps.roomdatabase.app-coordinatorlayout-1.0.0-43 C:\Users\MAH\.gradle\caches\transforms-3\9b5482826309f9638ade2dce9ea9f691\transformed\coordinatorlayout-1.0.0\res
+com.ahmedapps.roomdatabase.app-sqlite-framework-2.4.0-44 C:\Users\MAH\.gradle\caches\transforms-3\a524bb4ab9b8513808631c0a4410bee7\transformed\sqlite-framework-2.4.0\res
+com.ahmedapps.roomdatabase.app-ui-geometry-release-45 C:\Users\MAH\.gradle\caches\transforms-3\afae7c4cf0296dce2d273321dfe5cdbd\transformed\ui-geometry-release\res
+com.ahmedapps.roomdatabase.app-ui-unit-release-46 C:\Users\MAH\.gradle\caches\transforms-3\b31b78429b0db597971daf8b294d794e\transformed\ui-unit-release\res
+com.ahmedapps.roomdatabase.app-profileinstaller-1.4.0-47 C:\Users\MAH\.gradle\caches\transforms-3\b5b2ba7afef982faa5a7eeb7013e6a46\transformed\profileinstaller-1.4.0\res
+com.ahmedapps.roomdatabase.app-tracing-1.2.0-48 C:\Users\MAH\.gradle\caches\transforms-3\c07fb55c92d84182abb9401ee9b9404d\transformed\tracing-1.2.0\res
+com.ahmedapps.roomdatabase.app-navigation-common-ktx-2.7.5-49 C:\Users\MAH\.gradle\caches\transforms-3\c20e1a0d16ef741968b5ff57b05d3675\transformed\navigation-common-ktx-2.7.5\res
+com.ahmedapps.roomdatabase.app-lifecycle-livedata-2.8.7-50 C:\Users\MAH\.gradle\caches\transforms-3\c8b439297041d2f5cd413d40aeb93f26\transformed\lifecycle-livedata-2.8.7\res
+com.ahmedapps.roomdatabase.app-sqlite-2.4.0-51 C:\Users\MAH\.gradle\caches\transforms-3\c9119f867878e191edab22565199b10b\transformed\sqlite-2.4.0\res
+com.ahmedapps.roomdatabase.app-customview-poolingcontainer-1.0.0-52 C:\Users\MAH\.gradle\caches\transforms-3\ccbd5c7ccaf145379c8d0b7da461bc55\transformed\customview-poolingcontainer-1.0.0\res
+com.ahmedapps.roomdatabase.app-lifecycle-runtime-release-53 C:\Users\MAH\.gradle\caches\transforms-3\d4c15720419ee43cf664217bc63a432f\transformed\lifecycle-runtime-release\res
+com.ahmedapps.roomdatabase.app-ui-tooling-data-release-54 C:\Users\MAH\.gradle\caches\transforms-3\d94ca637777507423ae0429969a4fc40\transformed\ui-tooling-data-release\res
+com.ahmedapps.roomdatabase.app-room-ktx-2.6.1-55 C:\Users\MAH\.gradle\caches\transforms-3\eb97b02224613b61cbb4529548192f14\transformed\room-ktx-2.6.1\res
+com.ahmedapps.roomdatabase.app-room-runtime-2.6.1-56 C:\Users\MAH\.gradle\caches\transforms-3\ec4cf9857254af80907ca152dc339353\transformed\room-runtime-2.6.1\res
+com.ahmedapps.roomdatabase.app-navigation-common-2.7.5-57 C:\Users\MAH\.gradle\caches\transforms-3\ece5a1c665c88970403e180589522b5d\transformed\navigation-common-2.7.5\res
+com.ahmedapps.roomdatabase.app-core-ktx-1.15.0-58 C:\Users\MAH\.gradle\caches\transforms-3\f172d1b5644edb5d2e887d0f7e6fc06f\transformed\core-ktx-1.15.0\res
+com.ahmedapps.roomdatabase.app-ads-adservices-1.0.0-beta05-59 C:\Users\MAH\.gradle\caches\transforms-3\f586b157bd63e287a190b901405326ff\transformed\ads-adservices-1.0.0-beta05\res
+com.ahmedapps.roomdatabase.app-ui-tooling-release-60 C:\Users\MAH\.gradle\caches\transforms-3\f911d5c1daf63fb396a6f8072b4bc9d0\transformed\ui-tooling-release\res
+com.ahmedapps.roomdatabase.app-lifecycle-runtime-ktx-release-61 C:\Users\MAH\.gradle\caches\transforms-3\f9a182883f3ed41f4c0c1faafc97adee\transformed\lifecycle-runtime-ktx-release\res
+com.ahmedapps.roomdatabase.app-res-62 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\build\generated\res\processDebugGoogleServices
+com.ahmedapps.roomdatabase.app-resValues-63 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\build\generated\res\resValues\debug
+com.ahmedapps.roomdatabase.app-packageDebugResources-64 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ahmedapps.roomdatabase.app-packageDebugResources-65 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ahmedapps.roomdatabase.app-merged_res-66 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\build\intermediates\merged_res\debug
+com.ahmedapps.roomdatabase.app-debug-67 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\src\debug\res
+com.ahmedapps.roomdatabase.app-main-68 C:\Users\MAH\AndroidStudioProjects\Room Database\Room_Databese_tutorail\app\src\main\res
